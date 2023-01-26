@@ -222,7 +222,7 @@ public class AStar {
 		/**
 		 * Create a maze and display its textual representation
 		 */
-		MazeContainer mc = new MazeContainer(50, 80);
+		MazeContainer mc = new MazeContainer(80, 50);
 		TextDisplay.displayMaze(mc);
 
 		/**
